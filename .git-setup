@@ -1,0 +1,10 @@
+git config --global user.name "Shaan Menon"
+git config --global user.email "smenon18@gmail.com"
+git config --global alias.br branch
+git config --global color.ui true
+git config --global alias.cm 'commit -m'
+git config --global alias.co checkout
+git config --global alias.aa 'add --all'
+git config --global alias.pullrb 'pull --rebase'
+git config --global alias.unstage 'reset HEAD --'
+git config --global push.default simple
