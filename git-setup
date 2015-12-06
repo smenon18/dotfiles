@@ -7,4 +7,7 @@ git config --global alias.co checkout
 git config --global alias.aa 'add --all'
 git config --global alias.pullrb 'pull --rebase'
 git config --global alias.unstage 'reset HEAD --'
+git config --global alias.hardrs 'reset --hard HEAD'
+git config --global alias.mergesq 'merge --squash'
 git config --global push.default simple
+git config --global alias.override 'push --force'
