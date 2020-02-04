@@ -11,3 +11,4 @@ git config --global alias.hardrs 'reset --hard HEAD'
 git config --global alias.mergesq 'merge --squash'
 git config --global push.default simple
 git config --global alias.override 'push --force'
+git config --global alias.st status
