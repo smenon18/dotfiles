@@ -1,0 +1,18 @@
+;; Aliases
+(defalias 'yes-or-no-p 'y-or-n-p)
+(defalias 'list-buffers 'ibuffer)
+(defalias 'qrr 'query-replace-regexp)
+(defalias 'g 'grep)
+(defalias 'gf 'grep-find)
+(defalias 'dml 'delete-matching-lines)
+(defalias 'dtw 'delete-trailing-whitespace)
+(defalias 'rb 'revert-buffer)
+(defalias 'rs 'replace-string)
+(defalias 'sh 'shell)
+(defalias 'sl 'sort-lines)
+
+(defalias 'eb 'eval-buffer)
+
+;; Modes
+(defalias 'tm 'text-mode)
+(defalias 'sm 'shell-script-mode)
